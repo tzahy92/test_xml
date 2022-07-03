@@ -1,0 +1,5 @@
+<project ...>
+  <artifactId>My_Project</artifactId>  <!-- Noncompliant -->
+
+  <!-- ... -->
+</project>
